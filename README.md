@@ -19,13 +19,13 @@ O programa tem objetivo de, por meio de intervalos, buscar raizes dos problemas 
 
 ## Sobre
 
-### 📄 Licença
+### Licença
 
 Este projeto está sob domínio de Pedro Victor.
 
 ### Contato
 
-- [ ] Pedro Victor - [LinkedIn](https://www.linkedin.com/in/pedro-victor-8674b622a/)
+- [ ] Pedro Victor - [LinkedIn](linkedin.com/in/pedro-victor-ssa)
 - [ ] Email: pvictors152004@gmail.com
-- [ ] Instagram: @pe_viic
+- [ ] Instagram: @viictorcsv
 
